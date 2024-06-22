@@ -37,6 +37,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\fgoudou.BJ\OneDrive - MTN Group\Documents\MTN BENIN\Devs\Product Manager\config-repo" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -54,7 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1718975540422</updated>
       <workItem from="1718975541561" duration="10237000" />
-      <workItem from="1719053991005" duration="5602000" />
+      <workItem from="1719053991005" duration="7947000" />
     </task>
     <servers />
   </component>
