@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5934a7c6-69f2-4ac2-959b-d68082779e02" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notification-service.properties" beforeDir="false" afterPath="$PROJECT_DIR$/notification-service.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +43,21 @@
       <recent name="C:\Users\fgoudou.BJ\OneDrive - MTN Group\Documents\MTN BENIN\Devs\Product Manager\config-repo" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="config-repo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="config-repo" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -59,7 +75,8 @@
       <option name="presentableId" value="Default" />
       <updated>1718975540422</updated>
       <workItem from="1718975541561" duration="10237000" />
-      <workItem from="1719053991005" duration="14193000" />
+      <workItem from="1719053991005" duration="15312000" />
+      <workItem from="1719136851095" duration="54000" />
     </task>
     <servers />
   </component>
