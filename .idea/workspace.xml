@@ -6,7 +6,13 @@
   <component name="ChangeListManager">
     <list default="true" id="5934a7c6-69f2-4ac2-959b-d68082779e02" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/file-service.properties" beforeDir="false" afterPath="$PROJECT_DIR$/file-service.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iam-service.properties" beforeDir="false" afterPath="$PROJECT_DIR$/iam-service.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs-service.properties" beforeDir="false" afterPath="$PROJECT_DIR$/logs-service.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notification-service.properties" beforeDir="false" afterPath="$PROJECT_DIR$/notification-service.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-service.properties" beforeDir="false" afterPath="$PROJECT_DIR$/project-service.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report-service.properties" beforeDir="false" afterPath="$PROJECT_DIR$/report-service.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task-service.properties" beforeDir="false" afterPath="$PROJECT_DIR$/task-service.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +82,8 @@
       <updated>1718975540422</updated>
       <workItem from="1718975541561" duration="10237000" />
       <workItem from="1719053991005" duration="15312000" />
-      <workItem from="1719136851095" duration="3011000" />
+      <workItem from="1719136851095" duration="4421000" />
+      <workItem from="1719768724111" duration="1144000" />
     </task>
     <servers />
   </component>
